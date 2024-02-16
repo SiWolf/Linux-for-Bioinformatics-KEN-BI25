@@ -1,33 +1,16 @@
 # Workshop Nanopore Bioinformatics
 
-A practical introduction to linux for bioinformatics for students in Côte d'Ivoire.
+A practical introduction to Linux for bioinformatics. 
 
-## Schedule links for the workshop
+## Link to Google Drive
+Please use this [link](https://drive.google.com/drive/folders/1EYYgZMjR4XtmDW1dyNRWpOrN9m0Fqqpu?usp=sharing) to access course material. Please note that the course material is only for training participants. Do not distribute.
 
-### General
-* [YYYY-MM-DD - SOMEDAY: Welcome, Linux re-cap, container, and WMS](#0)  
-
-### Long-read bacteria genome reconstruction
-* [YYYY-MM-DD - SOMEDAY: Nanopore sequencing, data formats, and QC](#1)  
-* [YYYY-MM-DD - SOMEDAY: _De novo_ assembly and mapping](#2)  
-* [YYYY-MM-DD - SOMEDAY: Assembly polishing and variant calling](#3)  
-* [YYYY-MM-DD - SOMEDAY: Final day, Miscellaneous bacteria](#4)  
-
-### SARS-CoV-2 data science
-* [YYYY-MM-DD - SOMEDAY: FU course intro & RKI SARS-CoV-2 genomic surveillance intro](#5)  
-* [YYYY-MM-DD - SOMEDAY: SARS-CoV-2 sequencing & genome reconstruction](#6)  
-* [YYYY-MM-DD - SOMEDAY: SARS-CoV-2 evolution, mutation profiling & phenotypization](#7)  
-* [YYYY-MM-DD - SOMEDAY: SARS-CoV-2 pathogen evolution & genome-based incidence estimation](#8)  
-* [YYYY-MM-DD - SOMEDAY: SARS-CoV-2 phylogeny & outbreak investigation](#9)  
-
-### Long-read metagenomics
-* [YYYY-MM-DD - SOMEDAY: Metagenomic read classification](#10)
-* [YYYY-MM-DD - SOMEDAY: Metagenome assembly, binning, qc, and annotation](#11)
+_Veuillez utiliser ce_ [lien](https://drive.google.com/drive/folders/1EYYgZMjR4XtmDW1dyNRWpOrN9m0Fqqpu?usp=sharing) _pour accéder au matériel de formation. Veuillez noter que le matériel de cours est réservé aux participants à la formation. Ne le distribuez pas._
 
 
 ## Instructors
 
-* Franziska Kistner, Katja Winter
+ Franziska Kistner, Katja Winter
 
 ## Schedule
 
