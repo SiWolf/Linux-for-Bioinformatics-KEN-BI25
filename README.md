@@ -32,7 +32,7 @@ _Veuillez utiliser ce_ [lien](https://drive.google.com/drive/folders/1EYYgZMjR4X
 | Time        | Topic |
 | --          | --               |
 | 10:00-11:00 | Debriefing day 01 |
-| 11:00-12:00 | Sequencing data analysis |
+| 11:00-12:00 | Data analysis of sequencing data |
 | 12:00-13:00 | Lunch break |
 | 13:00-14:00 | Extract and reuse file content |
 | 14:00-14:15 | Wrap-up & questions |
