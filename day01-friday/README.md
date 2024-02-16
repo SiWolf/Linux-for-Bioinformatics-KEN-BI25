@@ -7,10 +7,9 @@ _Bienvenue à l'atelier! Pour chaque jour de le formation, vous trouverez un `RE
 ## Lectures
 
 * [Welcome and introduction](https://docs.google.com/presentation/d/170aDomUF7LulVB6wrhOoPuEdNZehFRBLPD3Aq279I_E/edit?usp=sharing)
-* [Introduction to NGS](https://docs.google.com/presentation/d/1t0HgLWppFKKMl6k_u2dhvDPiE29PFf_h/edit?usp=sharing&ouid=111368892690446693709&rtpof=true&sd=true)
+* [Introduction to NGS](ADD LINK)
 * [Navigate the Linux file system](https://docs.google.com/presentation/d/1MIFZxxFirjuA6Sc5nKqkHNRAAuT6nZ8f0Fvh-JUq9MQ/edit?usp=sharing)
 * [View & modify files](https://docs.google.com/presentation/d/1CUGynLtsSQjNVzazdCt5ETSBLtjiC9MlaLvpCud1W_w/edit?usp=sharing)
-* [Summary]()
 
 
 ## Practical part 
