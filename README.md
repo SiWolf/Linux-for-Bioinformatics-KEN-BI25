@@ -31,9 +31,8 @@ _Veuillez utiliser ce_ [lien](https://drive.google.com/drive/folders/1EYYgZMjR4X
 ### <a name="1"></a> SATURDAY, FEBRUARY 24
 | Time        | Topic |
 | --          | --               |
-| 10:00-10:15 | Debriefing day 01 |
-| 10:15-11:15 | Sequencing data analysis |
-| 11:15-12:00 | Extract and reuse file content |
+| 10:00-11:00 | Debriefing day 01 |
+| 11:00-12:00 | Sequencing data analysis |
 | 12:00-13:00 | Lunch break |
 | 13:00-14:00 | Extract and reuse file content |
 | 14:00-14:15 | Wrap-up & questions |
