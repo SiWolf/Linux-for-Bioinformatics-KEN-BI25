@@ -1,6 +1,6 @@
 # Workshop Nanopore Bioinformatics
 
-A practical introduction to Linux for bioinformatics within the framework of the project "A Partnership to Strengthen Integrated Genomic Surveillance through Greater Capacities in National Public Health Institutes (IGS Project). The project aims to strengthen genomic surveillance capacities while integrating these into the public health system. 
+A practical introduction to Linux for bioinformatics within the framework of the project "A Partnership to Strengthen Integrated Genomic Surveillance through Greater Capacities in National Public Health Institutes" (IGS Project) in cooperatin with scientists from different public health institutes in Côte d'Ivoire. The project aims to strengthen genomic surveillance capacities while integrating these into the public health system. 
 
 The overall learning objectives of this course are
 * Navigate the Linux file system efficiently
@@ -8,6 +8,15 @@ The overall learning objectives of this course are
 * Extract and reuse information from bioinformatics files
 * Write small bash scripts for automatisation
 * Install and run bioinformatics software from different sources
+
+_Une introduction pratique à Linux pour la bioinformatique dans le cadre du projet "A Partnership to Strengthen Integrated Genomic Surveillance through Greater Capacities in National Public Health Institutes" (Projet IGS) en coopération avec des scientifiques de différents instituts de santé publique en Côte d'Ivoire. Le projet vise à renforcer les capacités de surveillance génomique tout en les intégrant dans le système de santé publique._ 
+
+_Les objectifs généraux d'apprentissage de ce cours sont les suivants_
+* _Naviguer efficacement dans le système de fichiers Linux-
+* _Maintenir une structure de dossiers efficace pour les données de recherche-
+* _Extraire et réutiliser les informations des fichiers bioinformatiques_
+* _Écrire de petits scripts bash pour l'automatisation_
+* _Installer et exécuter des logiciels bioinformatiques à partir de différentes sources._
 
 ## Link to Google Drive
 Please use this [link](https://drive.google.com/drive/folders/1EYYgZMjR4XtmDW1dyNRWpOrN9m0Fqqpu?usp=sharing) to access course material. Please note that the course material is only for training participants. Do not distribute.
@@ -47,6 +56,4 @@ _Veuillez utiliser ce_ [lien](https://drive.google.com/drive/folders/1EYYgZMjR4X
 
 ## Acknowledgement
 
-This course material is a cooperation between  colleagues in the Robert Koch Institute, ZIG4 and MF1, in the context of the Integrated Genomic Surveillance (IGS) Project from the WHO Pandemic Hub.
-
-Please do not distribute the course material, only intended for training purposes.
+This course is a cooperation between colleagues from the Robert Koch Institute, ZIG4 and MF1, in the context of the Integrated Genomic Surveillance (IGS) Project. 
