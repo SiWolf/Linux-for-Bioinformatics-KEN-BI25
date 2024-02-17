@@ -43,5 +43,5 @@ _Veuillez utiliser ce_ [lien](https://drive.google.com/drive/folders/1EYYgZMjR4X
 This course material is partly based on the following resources and on contributions from great people (no specific order):
 
 * Martin Hoelzer, RKI, GitHub template
-* Oliver Drechsel and Kathrin Trappe, RKI, Linux basics and advanced
+* Oliver Drechsel and Kathrin Trappe, RKI, Linux basics and advanced slides
 * George Githure, RKI, slides about sequencing and data analysis
