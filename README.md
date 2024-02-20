@@ -1,4 +1,4 @@
-# Workshop Nanopore Bioinformatics
+# Linux pour la Bioinformatique: Un atelier pratique
 
 A practical introduction to Linux for bioinformatics within the framework of the project "A Partnership to Strengthen Integrated Genomic Surveillance through Greater Capacities in National Public Health Institutes" (IGS Project) in cooperatin with scientists from different public health institutes in Côte d'Ivoire. The project aims to strengthen genomic surveillance capacities while integrating these into the public health system. 
 
@@ -53,7 +53,11 @@ _Veuillez utiliser ce_ [lien](https://drive.google.com/drive/folders/1EYYgZMjR4X
 | 13:00-14:00 | Extract and reuse file content |
 | 14:00-14:15 | Wrap-up & questions |
 
+### <a name="2"></a> MONDAY, FEBRUARY 26
+| Time        | Topic |
+| --          | --               |
+| 9:00-9:15   | Group photo :) |
 
-## Acknowledgement
+## Acknowledgements
 
-This course is a cooperation between colleagues from the Robert Koch Institute, ZIG4 and MF1, in the context of the Integrated Genomic Surveillance (IGS) Project. 
+This course is a joint effort of colleagues from the Robert Koch Institute, ZIG4 and MF1, in the context of the IGS Project. 
