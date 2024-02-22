@@ -12,8 +12,8 @@ The overall learning objectives of this course are
 _Une introduction pratique à Linux pour la bioinformatique dans le cadre du projet "A Partnership to Strengthen Integrated Genomic Surveillance through Greater Capacities in National Public Health Institutes" (Projet IGS) en coopération avec des scientifiques de différents instituts de santé publique en Côte d'Ivoire. Le projet vise à renforcer les capacités de surveillance génomique tout en les intégrant dans le système de santé publique._ 
 
 _Les objectifs généraux d'apprentissage de ce cours sont les suivants_
-* _Naviguer efficacement dans le système de fichiers Linux-
-* _Maintenir une structure de dossiers efficace pour les données de recherche-
+* _Naviguer efficacement dans le système de fichiers Linux_
+* _Maintenir une structure de dossiers efficace pour les données de recherche_
 * _Extraire et réutiliser les informations des fichiers bioinformatiques_
 * _Écrire de petits scripts bash pour l'automatisation_
 * _Installer et exécuter des logiciels bioinformatiques à partir de différentes sources._
@@ -35,28 +35,27 @@ _Veuillez utiliser ce_ [lien](https://drive.google.com/drive/folders/1EYYgZMjR4X
 ### <a name="0"></a> FRIDAY, FEBRUARY 23
 | Time        | Topic |
 | --          | --               |
-| 9:00-9:45   | Welcome & introduction |
-| 9:45-10:30  | Introduction to NGS |
-| 10:30-12:00 | Navigate the Linux file system |
-| 12:00-13:00 | Lunch break |
-| 13:00-14:00 | View and modify files and folders |
-| 14:00-14:30 | Coffee break |
+| 9:00-10:00  | Welcome & introduction |
+| 10:00-10:30 | Introduction to next-generation sequencing |
+| 10:35-11:00 | Introduction to bioinformatics data analysis |
+| 11:00-11:30 | Coffee break |
+| 11:30-13:00 | Navigate the Linux file system | 
+| 13:00-14:00 | Lunch break |
 | 14:30-16:00 | View and modify files and folders |
+| 15:00-15:30 | Coffee break |
 | 16:00-16:15 | Wrap-up & questions |
 
 ### <a name="1"></a> SATURDAY, FEBRUARY 24
 | Time        | Topic |
 | --          | --               |
-| 10:00-11:00 | Debriefing day 01 |
-| 11:00-12:00 | Data analysis of sequencing data |
-| 12:00-13:00 | Lunch break |
-| 13:00-14:00 | Extract and reuse file content |
-| 14:00-14:15 | Wrap-up & questions |
+| 10:00-11:00 | Recap day 01 |
+| 11:00-12:00 | Project organization & data management |
+| 12:00-13:00 | Extract and reuse file content |
+| 13:00-14:00 | Lunch break |
+| 14:00-15:00 | Extract and reuse file content |
+| 15:00-15:15 | Coffee break |
+| 15:15-15:30 | Wrap-up & questions |
 
-### <a name="2"></a> MONDAY, FEBRUARY 26
-| Time        | Topic |
-| --          | --               |
-| 9:00-9:15   | Group photo :) |
 
 ## Acknowledgements
 
