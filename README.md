@@ -30,7 +30,7 @@ _Veuillez utiliser ce_ [lien](https://drive.google.com/drive/folders/1EYYgZMjR4X
 
 ## Schedule
 
-> All events are held at the Azalai Hotel in Abidjan, room XXX.
+> All events are held at the Azalai Hotel in Abidjan, salle Azalai.
 
 ### <a name="0"></a> FRIDAY, FEBRUARY 23
 | Time        | Topic |
