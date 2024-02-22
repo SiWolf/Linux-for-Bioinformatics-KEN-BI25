@@ -8,7 +8,7 @@ _Bienvenue à l'atelier! Pour chaque jour de le formation, vous trouverez un `RE
 
 * [Welcome and introduction](https://docs.google.com/presentation/d/1CUGynLtsSQjNVzazdCt5ETSBLtjiC9MlaLvpCud1W_w/edit?usp=sharing)
 * [Introduction to NGS](https://docs.google.com/presentation/d/1WcV_9H3rvBABO8W5hMLtT-usEskLsfcX/edit?usp=sharing&ouid=111368892690446693709&rtpof=true&sd=true)
-*[Introduction to sequence data analysis](https://docs.google.com/presentation/d/1tDGqMUv-rE4wmoY-5fsASOE6Pivk24st/edit?usp=sharing&ouid=111368892690446693709&rtpof=true&sd=true)
+* [Introduction to sequence data analysis](https://docs.google.com/presentation/d/1tDGqMUv-rE4wmoY-5fsASOE6Pivk24st/edit?usp=sharing&ouid=111368892690446693709&rtpof=true&sd=true)
 * [Navigate the Linux file system](https://docs.google.com/presentation/d/1MIFZxxFirjuA6Sc5nKqkHNRAAuT6nZ8f0Fvh-JUq9MQ/edit?usp=sharing)
 * [View & modify files](https://docs.google.com/presentation/d/170aDomUF7LulVB6wrhOoPuEdNZehFRBLPD3Aq279I_E/edit?usp=sharing)
 
