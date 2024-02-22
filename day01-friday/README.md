@@ -8,6 +8,7 @@ _Bienvenue à l'atelier! Pour chaque jour de le formation, vous trouverez un `RE
 
  Franziska Kistner, Dr Grit Schubert, (Katja Winter)
 
+## Schedule
 ### <a name="0"></a> FRIDAY, FEBRUARY 23
 | Time        | Topic |
 | --          | --               |
