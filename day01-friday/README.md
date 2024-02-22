@@ -4,6 +4,23 @@ Welcome to the workshop! For every day, you will usually find a separate `README
 
 _Bienvenue à l'atelier! Pour chaque jour de le formation, vous trouverez un `README.md` séparé qui vous guidera vers les "Lectures (Présentations)" et les "Practical part (Exercises pratiques)"._
 
+## Instructors
+
+ Franziska Kistner, Dr Grit Schubert, (Katja Winter)
+
+### <a name="0"></a> FRIDAY, FEBRUARY 23
+| Time        | Topic |
+| --          | --               |
+| 9:00-10:00  | Welcome & introduction |
+| 10:00-10:30 | Introduction to next-generation sequencing |
+| 10:35-11:00 | Introduction to bioinformatics data analysis |
+| 11:00-11:30 | Coffee break |
+| 11:30-13:00 | Navigate the Linux file system | 
+| 13:00-14:00 | Lunch break |
+| 14:30-16:00 | View and modify files and folders |
+| 15:00-15:30 | Coffee break |
+| 16:00-16:15 | Wrap-up & questions |
+
 ## Lectures
 
 * [Welcome and introduction](https://docs.google.com/presentation/d/1CUGynLtsSQjNVzazdCt5ETSBLtjiC9MlaLvpCud1W_w/edit?usp=sharing)
