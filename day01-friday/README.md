@@ -28,14 +28,13 @@ _Bienvenue à l'atelier! Pour chaque jour de le formation, vous trouverez un `RE
 * [Introduction to NGS](https://docs.google.com/presentation/d/1WcV_9H3rvBABO8W5hMLtT-usEskLsfcX/edit?usp=sharing&ouid=111368892690446693709&rtpof=true&sd=true)
 * [Introduction to sequence data analysis](https://docs.google.com/presentation/d/1tDGqMUv-rE4wmoY-5fsASOE6Pivk24st/edit?usp=sharing&ouid=111368892690446693709&rtpof=true&sd=true)
 * [Navigate the Linux file system](https://docs.google.com/presentation/d/1MIFZxxFirjuA6Sc5nKqkHNRAAuT6nZ8f0Fvh-JUq9MQ/edit?usp=sharing)
-*[Summary Day 01](https://docs.google.com/presentation/d/1V26ehnyEeC5KWHoCyirHYYe4nzKfEDJdKB1MyqwT1bk/edit?usp=sharing)
+* [Summary Day 01](https://docs.google.com/presentation/d/1V26ehnyEeC5KWHoCyirHYYe4nzKfEDJdKB1MyqwT1bk/edit?usp=sharing)
 
 
 ## Practical part 
 * [Hands-on: Your first command](1.0_exercises_pratiques.md)
 * [Hands-on: See content on the command line](1.1_exercices_pratiques.md)
 * [Hands-on: Navigate between folders](1.2_exercices_pratiques.md)
-* [Hands-on: View & modify files](1.3_exercices_pratiques.md)
 
 ## Evaluation
-* [Evaluation day 01](https://docs.google.com/forms/d/1GYesXR4eSJnwLKXJEeNeTEVzSZFcz5PrjKJGODltx70/edit#responses)
+* [Evaluation day 01](https://forms.gle/zb8xb9CAFPGgGeVX7)
