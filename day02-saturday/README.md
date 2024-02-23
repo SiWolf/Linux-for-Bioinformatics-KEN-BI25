@@ -31,4 +31,4 @@ _Bienvenue au deuxième jour de l'atelier! Pour chaque jour de le formation, vou
 * [Hands-on: Extract and reuse file content](2.3_exercices_pratiques.md)
 
 ## Evaluation
-* [Evaluation day 02](https://forms.gle/5pEV14GQbcLQMfyH9)
+* [Evaluation day 02](https://forms.gle/mkL56WUAZf1LAdRr8)
