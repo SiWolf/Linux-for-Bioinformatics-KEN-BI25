@@ -36,3 +36,6 @@ _Bienvenue à l'atelier! Pour chaque jour de le formation, vous trouverez un `RE
 * [Hands-on: See content on the command line](1.1_exercices_pratiques.md)
 * [Hands-on: Navigate between folders](1.2_exercices_pratiques.md)
 * [Hands-on: View & modify files](1.3_exercices_pratiques.md)
+
+## Evaluation
+* [Evaluation day 01](https://docs.google.com/forms/d/1GYesXR4eSJnwLKXJEeNeTEVzSZFcz5PrjKJGODltx70/edit#responses)
