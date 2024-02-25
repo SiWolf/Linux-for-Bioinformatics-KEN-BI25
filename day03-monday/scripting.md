@@ -1,0 +1,90 @@
+# 2024 Linux for Bioinformatics Workshop - Day 03
+
+## Write scripts for automation
+We now know how to run various commands and small programs on the command line. However, since we are busy with all our daily work, we don't want to type each command one by one. That's why we write scripts in which we combine different commands, which are then executed one after the other by the computer.
+
+_Nous savons maintenant comment exécuter diverses commandes et petits programmes sur la ligne de commande. Cependant, comme nous sommes très occupés par notre travail quotidien, nous ne voulons pas taper chaque commande une par une. C'est pourquoi nous écrivons des scripts dans lesquels nous combinons différentes commandes, qui sont ensuite exécutées l'une après l'autre par l'ordinateur._
+
+
+### Start with a basic executable script
+Let's just start. First prepare an empty folder called scripts. Using Nano, create a text file called 'HelloWorld.sh'. Enter the hash bang and the following echo command:
+
+_Commençons par le commencement. Préparez d'abord un dossier vide appelé scripts. En utilisant Nano, créez un fichier texte appelé 'HelloWorld.sh'. Entrez le hash bang et la commande echo suivante :_
+
+```bash
+#!/bin/bash
+
+echo 'Hello World!!'
+```
+Close the file in Nano and use ```ls``` with the correct parameter to check if the file is executable. If not use ```chmod``` to set the execution permission. 
+Now enter the following to your command line.
+
+_Fermez le fichier dans Nano et utilisez ``ls`` avec le bon paramètre pour vérifier si le fichier est exécutable. Si ce n'est pas le cas, utilisez ``chmod`` pour définir la permission d'exécution. 
+Maintenant, entrez ce qui suit dans votre ligne de commande._
+
+```bash
+./HelloWorld.sh
+```
+What happens?
+Congratulations, you have written your first script!
+
+_Que se passe-t-il ?
+Félicitations, vous avez écrit votre premier scénario !_
+!!! note Note
+If your script lies within your current working directory you can run it using:
+
+_Si votre script se trouve dans votre répertoire de travail actuel, vous pouvez l'exécuter en utilisant :_
+
+./HelloWorld.sh
+or with:
+bash HelloWorld.sh
+
+If your script is in a different directory write the relative or absolute path in front of it:
+
+_Si votre script se trouve dans un autre répertoire, indiquez le chemin relatif ou absolu devant celui-ci :_
+
+/home/$USER/teaching/day03/scripts/HelloWorld.sh
+!!!
+
+### Write a script using variables and a function
+Now we want to go one step further and write a function. In this function we will also take a look at how we can work with variables. Lets start by creating a new script called 'MyVariableFunction.sh'. Copy and paste the following into your script and adjust the name, dessert and institute parameter.
+
+_Nous voulons maintenant aller plus loin et écrire une fonction. Dans cette fonction, nous allons également voir comment nous pouvons travailler avec des variables. Commençons par créer un nouveau script appelé 'MyVariableFunction.sh'. Copiez et collez ce qui suit dans votre script et ajustez le nom, le dessert et le paramètre d'institut._
+```bash
+#!/bin/bash
+
+#Declare variables
+name="put your name"
+dessert="put your favourite dessert"
+institute="where do you work"
+
+#create your function
+all_about_me () {
+  first_input=$1
+  second_input=$2
+  third_input=$3
+
+  echo "Hi, my name is $first_input!" 
+  echo "I like to eat $second_input."
+  echo "I work at $third_input."
+}
+
+#call the function
+all_about_me $name $dessert $institute
+
+```
+Close the file in Nano and use ```ls``` with the correct parameter to check if the file is executable. If not use ```chmod``` to set the execution permission. Run the script.
+
+What happens?
+
+_Fermez le fichier dans Nano et utilisez ``ls`` avec le bon paramètre pour vérifier si le fichier est exécutable. Si ce n'est pas le cas, utilisez ``chmod`` pour définir la permission d'exécution. Exécutez le script._
+
+_Que se passe-t-il ?_
+
+Now change the order of the name, dessert and institute. Run the script again. What happens? 
+
+Create a forth variable, you can decide on the name and content. Add the new variable to your function and use ```echo``` to print a message on the terminal.
+
+_Modifiez maintenant l'ordre du nom, du dessert et de l'institut. Exécutez à nouveau le script. Que se passe-t-il ?_
+
+_Créez une quatrième variable, vous pouvez décider du nom et du contenu. Ajoutez la nouvelle variable à votre fonction et utilisez ``echo`` pour imprimer un message sur le terminal._
