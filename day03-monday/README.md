@@ -23,7 +23,7 @@ _Bienvenue à l'atelier! Pour chaque jour de le formation, vous trouverez un `RE
 | 16:00-16:15 | Wrap-up & questions |
 
 ## Lectures
-*[Project organization](https://docs.google.com/presentation/d/1HdyqA9RwJVsRbapn-Md0e2PXXsxMkdDw8ufezOLSjzI/edit?usp=sharing)
+* [Project organization](https://docs.google.com/presentation/d/1HdyqA9RwJVsRbapn-Md0e2PXXsxMkdDw8ufezOLSjzI/edit?usp=sharing)
 
 ## Practical part 
 * [Hands-on: Extract file content](3.1_exercices_pratiques.md)
