@@ -14,12 +14,13 @@ _Bienvenue à l'atelier! Pour chaque jour de le formation, vous trouverez un `RE
 | --          | --               |
 | 9:00-9:30   | Recap `grep` |
 | 9:30-10:00 | Project organization |
-| 10:00-11:00 | Extract and reuse file content |
-| 11:00-11:30 | Coffee break |
+| 10:00-10:45 | Extract and reuse file content |
+| 10:45-11:15 | Coffee break |
 | 11:30-13:00 | Extract and reuse file content | 
 | 13:00-14:00 | Lunch break |
-| 14:30-16:00 | Write small scripts for automatisation |
-| 15:00-15:30 | Coffee break |
+| 14:00-15:00 | Write small scripts for automatisation |
+| 15:00-15:15 | Coffee break |
+| 15:15-16:00 | Write small scripts for automatisation |
 | 16:00-16:15 | Wrap-up & questions |
 
 ## Lectures
