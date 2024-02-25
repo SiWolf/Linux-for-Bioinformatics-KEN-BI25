@@ -45,16 +45,30 @@ _Veuillez utiliser ce_ [lien](https://drive.google.com/drive/folders/1EYYgZMjR4X
 | 15:00-15:30 | Coffee break |
 | 16:00-16:15 | Wrap-up & questions |
 
+
 ### <a name="1"></a> SATURDAY, FEBRUARY 24
 | Time        | Topic |
-| --          | --               |
+| --          | --    |
 | 10:00-11:00 | Recap day 01 |
-| 11:00-12:00 | Project organization & data management |
-| 12:00-13:00 | Extract and reuse file content |
+| 11:00-12:00 | View and modify files |
+| 12:00-13:00 | Project organization |
 | 13:00-14:00 | Lunch break |
 | 14:00-15:00 | Extract and reuse file content |
-| 15:00-15:15 | Coffee break |
-| 15:15-15:30 | Wrap-up & questions |
+| 15:00-15:15 | Wrap-up & questions |
+
+## Schedule
+### <a name="0"></a> MONDAY, FEBRUARY 26
+| Time        | Topic |
+| --          | --               |
+| 9:00-9:30   | Recap `grep` |
+| 9:30-10:00 | Project organization |
+| 10:00-11:00 | Extract and reuse file content |
+| 11:00-11:30 | Coffee break |
+| 11:30-13:00 | Extract and reuse file content | 
+| 13:00-14:00 | Lunch break |
+| 14:30-16:00 | Write small scripts for automatisation |
+| 15:00-15:30 | Coffee break |
+| 16:00-16:15 | Wrap-up & questions |
 
 
 ## Acknowledgements
