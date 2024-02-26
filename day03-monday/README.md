@@ -25,6 +25,7 @@ _Bienvenue à l'atelier! Pour chaque jour de le formation, vous trouverez un `RE
 
 ## Lectures
 * [Project organization](https://docs.google.com/presentation/d/1HdyqA9RwJVsRbapn-Md0e2PXXsxMkdDw8ufezOLSjzI/edit?usp=sharing)
+* [Writing scripts](https://docs.google.com/presentation/d/1123XctvdnnMCIbndjJa4XvNXWWeu49Ea/edit?usp=sharing&ouid=111368892690446693709&rtpof=true&sd=true)
 
 ## Practical part 
 * [Hands-on: Extract file content](3.1_exercices_pratiques.md)
