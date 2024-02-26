@@ -56,7 +56,7 @@ _Veuillez utiliser ce_ [lien](https://drive.google.com/drive/folders/1EYYgZMjR4X
 | 14:00-15:00 | Extract and reuse file content |
 | 15:00-15:15 | Wrap-up & questions |
 
-## Schedule
+
 ### <a name="0"></a> MONDAY, FEBRUARY 26
 | Time        | Topic |
 | --          | --               |
@@ -68,6 +68,19 @@ _Veuillez utiliser ce_ [lien](https://drive.google.com/drive/folders/1EYYgZMjR4X
 | 13:00-14:00 | Lunch break |
 | 14:30-16:00 | Write small scripts for automatisation |
 | 15:00-15:30 | Coffee break |
+| 16:00-16:15 | Wrap-up & questions |
+
+
+### <a name="0"></a> TUESDAY, FEBRUARY 27
+| Time        | Topic |
+| --          | --               |
+| 9:00-10:45  | Writing scripts for automatisation |
+| 10:45-11:15 | Coffee break |
+| 11:30-12:15 | Installer des outils avec anaconda | 
+| 12:15-13:00 | Quality control | 
+| 13:00-14:00 | Lunch break |
+| 14:00-16:00 | Quality control |
+| 15:00-15:15 | Coffee break |
 | 16:00-16:15 | Wrap-up & questions |
 
 
