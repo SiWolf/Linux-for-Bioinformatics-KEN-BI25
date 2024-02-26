@@ -28,6 +28,7 @@ _Bienvenue à l'atelier! Pour chaque jour de le formation, vous trouverez un `RE
 
 ## Practical part 
 * [Hands-on: Extract file content](3.1_exercices_pratiques.md)
+* [Hands-on: Writing scripts](3.2_exercices_pratiques.md)
 
 ## Evaluation
 * [Evaluation day 03](https://forms.gle/ry2q4x6a9SfMmptv5)
