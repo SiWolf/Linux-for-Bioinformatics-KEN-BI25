@@ -61,7 +61,7 @@ _Veuillez utiliser ce_ [lien](https://drive.google.com/drive/folders/1EYYgZMjR4X
 | Time        | Topic |
 | --          | --               |
 | 9:00-9:30   | Recap `grep` |
-| 9:30-10:00 | Project organization |
+| 9:30-10:00  | Project organization |
 | 10:00-11:00 | Extract and reuse file content |
 | 11:00-11:30 | Coffee break |
 | 11:30-13:00 | Extract and reuse file content | 
