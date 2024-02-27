@@ -29,3 +29,4 @@ _Bienvenue à l'atelier! Pour chaque jour de le formation, vous trouverez un `RE
 
 ## Evaluation
 * [Evaluation complete](https://forms.gle/eYhwu4vpFHuRCwTv7)
+* [Post course evaluation](https://docs.google.com/forms/d/e/1FAIpQLSetRG9dASkqzguRTVjJDdON6v85Hd6az-aQEv0PePcyw4BhIQ/viewform?usp=sf_link)
