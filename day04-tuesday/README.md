@@ -13,8 +13,8 @@ _Bienvenue à l'atelier! Pour chaque jour de le formation, vous trouverez un `RE
 | Time        | Topic |
 | --          | --               |
 | 9:00-10:45  | Writing scripts for automatisation |
-| 10:45-11:15 | Coffee break |
-| 11:30-12:15 | Installer des outils avec anaconda | 
+| 10:45-11:00 | Coffee break |
+| 11:00-12:15 | Installer des outils avec anaconda | 
 | 12:15-13:00 | Quality control | 
 | 13:00-14:00 | Lunch break |
 | 14:00-16:00 | Quality control |
