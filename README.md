@@ -1,80 +1,49 @@
-# Linux pour la Bioinformatique: Un atelier pratique
+# Linux for Bioinformatics: a 2-day hands-on Workshop
 
-A practical introduction to Linux for bioinformatics within the framework of the project "A Partnership to Strengthen Integrated Genomic Surveillance through Greater Capacities in National Public Health Institutes" (IGS Project) in cooperatin with scientists from different public health institutes in Côte d'Ivoire. The project aims to strengthen genomic surveillance capacities while integrating these into the public health system. 
+A practical introduction to Linux for bioinformatics, designed within the MISSION framework in cooperation with scientists of multiple public health institutes. 
 
-The overall learning objectives of this course are
-* Navigate the Linux file system efficiently
-* Maintain an efficient folder structure for research data
-* Extract and reuse information from bioinformatics files
-* Write small bash scripts for automatisation
-* Install and run bioinformatics software from different sources
+The overall learning objectives of this course are:
+* How to navigate the Linux file system efficiently
+* Maintaining an efficient folder structure for research data
+* Extracting information from bioinformatics file sets
 
 ## Link to Google Drive
 Please use this [link](https://drive.google.com/drive/folders/1EYYgZMjR4XtmDW1dyNRWpOrN9m0Fqqpu?usp=sharing) to access course material. Please note that the course material is only for training participants. Do not distribute.
 
-_Veuillez utiliser ce_ [lien](https://drive.google.com/drive/folders/1EYYgZMjR4XtmDW1dyNRWpOrN9m0Fqqpu?usp=sharing) _pour accéder au matériel de formation. Veuillez noter que le matériel de cours est réservé aux participants à la formation. Ne le distribuez pas._
-
-
 ## Instructors
 
- Franziska Kistner, Katja Winter
+Oliver Drechsel, Simon Tausch, Silver Wolf
 
 ## Schedule
 
-> All events are held at the Azalai Hotel in Abidjan, salle Azalai.
+> All events are held at the KEMRI, Nairobi, Kenya.
 
-### <a name="0"></a> FRIDAY, FEBRUARY 23
+### <a name="0"></a> THURSDAY, MARCH 06
+### <a name="0"></a> Introduction to Linux
 | Time        | Topic |
 | --          | --               |
-| 9:00-10:00  | Welcome & introduction |
-| 10:00-10:30 | Introduction to next-generation sequencing |
-| 10:35-11:00 | Introduction to bioinformatics data analysis |
-| 11:00-11:30 | Coffee break |
-| 11:30-13:00 | Navigate the Linux file system | 
-| 13:00-14:00 | Lunch break |
-| 14:30-16:00 | View and modify files and folders |
-| 15:00-15:30 | Coffee break |
-| 16:00-16:15 | Wrap-up & questions |
+| 09:00-10:00 | Welcome, brief introduction round, outline for the two days |
+| 10:00-10:30 | Introduction to Linux / bash / MobaXTerm |
+| 10:30-11:00 | Coffee break |
+| 11:00-12:00 | Navigating the Linux file system |
+| 12:00-13:00 | Lunch break |
+| 13:00-15:30 | Viewing and modifying files and folders |
+| 15:30-16:00 | Coffee break |
+| 16:00-16:15 | Wrap-up & questions, homework for tomorrow |
 
-
-### <a name="1"></a> SATURDAY, FEBRUARY 24
+### <a name="1"></a> FRIDAY, MARCH 07
+### <a name="0"></a> Bioinformatics hands-on course
 | Time        | Topic |
 | --          | --    |
-| 10:00-11:00 | Recap day 01 |
-| 11:00-12:00 | View and modify files |
-| 12:00-13:00 | Project organization |
-| 13:00-14:00 | Lunch break |
-| 14:00-15:00 | Extract and reuse file content |
+| 09:00-10:00 | Introduction to next-generation sequencing data |
+| 10:00-10:30 | Encoding sequence quality through FASTQ |
+| 10:30-11:00 | Coffee break |
+| 11:00-11:30 | Mapping and (not) scrapping - the SAM format |
+| 11:30-12:00 | The accessible FASTA file |
+| 12:00-13:00 | Lunch break |
+| 13:00-15:00 | Open project discussions / tool usage demonstrations |
 | 15:00-15:15 | Wrap-up & questions |
-
-
-### <a name="0"></a> MONDAY, FEBRUARY 26
-| Time        | Topic |
-| --          | --               |
-| 9:00-9:30   | Recap `grep` |
-| 9:30-10:00  | Project organization |
-| 10:00-11:00 | Extract and reuse file content |
-| 11:00-11:30 | Coffee break |
-| 11:30-13:00 | Extract and reuse file content | 
-| 13:00-14:00 | Lunch break |
-| 14:30-16:00 | Write small scripts for automatisation |
-| 15:00-15:30 | Coffee break |
-| 16:00-16:15 | Wrap-up & questions |
-
-
-### <a name="0"></a> TUESDAY, FEBRUARY 27
-| Time        | Topic |
-| --          | --               |
-| 9:00-10:45  | Writing scripts for automatisation |
-| 10:45-11:15 | Coffee break |
-| 11:30-12:15 | Installer des outils avec anaconda | 
-| 12:15-13:00 | Quality control | 
-| 13:00-14:00 | Lunch break |
-| 14:00-16:00 | Quality control |
-| 15:00-15:15 | Coffee break |
-| 16:00-16:15 | Wrap-up & questions |
-
 
 ## Acknowledgements
 
-This course is a joint effort of colleagues from the Robert Koch Institute, ZIG4 and MF1, in the context of the IGS Project. 
+This course is a joint effort of colleagues from the Robert Koch Institute, ZIG4 and MF1, in the context of the IGS Project.
