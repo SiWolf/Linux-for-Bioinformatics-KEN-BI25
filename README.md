@@ -22,8 +22,8 @@ Oliver Drechsel, Simon Tausch, Silver Wolf
 ### <a name="0"></a> Introduction to Linux
 | Time        | Topic |
 | --          | --               |
-| 09:00-10:00 | Welcome, brief introduction round, outline for the two days |
-| 10:00-10:30 | Introduction to Linux / bash / MobaXTerm |
+| 09:00-09:30 | Welcome, brief introduction round, outline for the two days |
+| 09:30-10:30 | Introduction to Linux / bash / MobaXTerm |
 | 10:30-11:00 | Coffee break |
 | 11:00-12:00 | Navigating the Linux file system |
 | 12:00-13:00 | Lunch break |
