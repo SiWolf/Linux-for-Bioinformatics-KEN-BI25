@@ -9,15 +9,6 @@ The overall learning objectives of this course are
 * Write small bash scripts for automatisation
 * Install and run bioinformatics software from different sources
 
-_Une introduction pratique à Linux pour la bioinformatique dans le cadre du projet "A Partnership to Strengthen Integrated Genomic Surveillance through Greater Capacities in National Public Health Institutes" (Projet IGS) en coopération avec des scientifiques de différents instituts de santé publique en Côte d'Ivoire. Le projet vise à renforcer les capacités de surveillance génomique tout en les intégrant dans le système de santé publique._ 
-
-_Les objectifs généraux d'apprentissage de ce cours sont les suivants_
-* _Naviguer efficacement dans le système de fichiers Linux_
-* _Maintenir une structure de dossiers efficace pour les données de recherche_
-* _Extraire et réutiliser les informations des fichiers bioinformatiques_
-* _Écrire de petits scripts bash pour l'automatisation_
-* _Installer et exécuter des logiciels bioinformatiques à partir de différentes sources._
-
 ## Link to Google Drive
 Please use this [link](https://drive.google.com/drive/folders/1EYYgZMjR4XtmDW1dyNRWpOrN9m0Fqqpu?usp=sharing) to access course material. Please note that the course material is only for training participants. Do not distribute.
 
