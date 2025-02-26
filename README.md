@@ -35,11 +35,11 @@ Oliver Drechsel, Simon Tausch, Silver Wolf
 ### <a name="0"></a> Bioinformatics hands-on course
 | Time        | Topic |
 | --          | --    |
-| 09:00-10:00 | Introduction to next-generation sequencing data |
-| 10:00-10:30 | Encoding sequence quality through FASTQ |
+| 09:00-09:30 | Introduction to next-generation sequencing |
+| 09:30-10:30 | Raw data quality control |
 | 10:30-11:00 | Coffee break |
-| 11:00-11:30 | Mapping and (not) scrapping - the SAM format |
-| 11:30-12:00 | The accessible FASTA file |
+| 11:00-11:30 | Mapping and variant calling |
+| 11:30-12:00 | Consensus files / assemblies |
 | 12:00-13:00 | Lunch break |
 | 13:00-15:00 | Open project discussions / tool usage demonstrations |
 | 15:00-15:15 | Wrap-up & questions |
