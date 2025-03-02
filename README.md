@@ -8,7 +8,7 @@ The overall learning objectives of this course are:
 * Extracting information from bioinformatics file sets
 
 ## Link to Google Drive
-Please use this [link](https://drive.google.com/drive/folders/1EYYgZMjR4XtmDW1dyNRWpOrN9m0Fqqpu?usp=sharing) to access course material. Please note that the course material is only for training participants. Do not distribute.
+Please use this [link](https://drive.google.com/drive/folders/1sFvQpli-bVa2jBp9aYm1evL56rj_TZWZ?usp=drive_link) to access course material. Please note that the course material is only for training participants. Do not distribute.
 
 ## Instructors
 
