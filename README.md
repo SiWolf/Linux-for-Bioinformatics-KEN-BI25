@@ -36,10 +36,10 @@ Oliver Drechsel, Simon Tausch, Silver Wolf
 | Time        | Topic |
 | --          | --    |
 | 09:00-09:30 | Introduction to next-generation sequencing |
-| 09:30-10:30 | Raw data quality control / fastQC |
+| 09:30-10:30 | Data from the sequencer / preparing the data |
 | 10:30-11:00 | Coffee break |
-| 11:00-11:30 | Mapping and variant calling |
-| 11:30-12:00 | Consensus assembly |
+| 11:00-11:30 | Genome reconstruction / detection of mutations |
+| 11:30-12:00 | Consensus generation |
 | 12:00-13:00 | Lunch break |
 | 13:00-15:00 | Open project discussions / tool usage demonstrations |
 | 15:00-15:15 | Wrap-up & questions |
