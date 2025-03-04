@@ -12,7 +12,7 @@ Please use this [link](https://drive.google.com/drive/folders/1sFvQpli-bVa2jBp9a
 
 ## Instructors
 
-Oliver Drechsel, Simon Tausch, Silver Wolf
+Oliver Drechsel, Simon Tausch, Silver Wolf, Tanja Pilz
 
 ## Schedule
 
