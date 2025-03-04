@@ -22,7 +22,7 @@ Oliver Drechsel, Simon Tausch, Silver Wolf, Tanja Pilz
 ### <a name="0"></a> Introduction to Linux
 | Time        | Topic |
 | --          | --               |
-| 09:00-09:30 | Welcome, brief introduction round, outline for the two days |
+| 09:00-09:30 | Welcome, brief introduction round, outline for the two days, Linux survey |
 | 09:30-10:30 | Introduction to Linux / bash / MobaXTerm |
 | 10:30-11:00 | Coffee break |
 | 11:00-12:00 | Navigating the Linux file system |
@@ -36,13 +36,13 @@ Oliver Drechsel, Simon Tausch, Silver Wolf, Tanja Pilz
 | Time        | Topic |
 | --          | --    |
 | 09:00-09:30 | Introduction to next-generation sequencing |
-| 09:30-10:30 | Data from the sequencer / preparing the data |
-| 10:30-11:00 | Coffee break |
-| 11:00-11:30 | Genome reconstruction / detection of mutations |
-| 11:30-12:00 | Consensus generation |
-| 12:00-13:00 | Lunch break |
-| 13:00-15:00 | Open project discussions / tool usage demonstrations |
-| 15:00-15:15 | Wrap-up & questions |
+| 09:30-10:00 | Data from the sequencer / preparing the data |
+| 10:00-10:30 | Coffee break |
+| 10:30-11:00 | Genome reconstruction / detection of mutations |
+| 11:00-11:30 | Consensus generation |
+| 11:30-12:30 | Lunch break |
+| 12:30-14:45 | Open project discussions / tool usage demonstrations |
+| 14:45-15:15 | Wrap-up & questions, repeat Linux survey |
 
 ## Acknowledgements
 
